@@ -46,3 +46,6 @@ As to be expected, rural cities make up the least amount of rides, drivers, and 
 
 
 # Summary
+
+
+By examining this data, we can see that there are vast differences between each of the three city types. Therefore, I believe it would be prudent to have at at least 2 different teams (suburban and urban as one team, rural as the other) focus on different city types. For urban cities, it would there needs to be more incentive for drivers who consistently show up as the turn over rate seems quite high. Perhaps, a partner program could be where drivers in urban cities get rewards (cash bonuses, vacations, free products for their vehicles). This could also be applied for the rider side of things where the more they use the app, the more rewards they'll receive. For suburban cities, I think marketting to the middle class would be very effective in increasing the amount of rides taken. Show the benefits of ride sharing for busy parents and market the safety standards for your drivers. Finally, for rural Pyber users, it's going to be a tough sell since cars are a necessity for people who's area is spread out. The most effective way of driving business in the rural climate is to focus on rural areas where tourism is popular.  
