@@ -2,11 +2,20 @@
 
 ## Overview of Project
 
+### Summary of Total Fares by City Type (01/01/2019 - 04/29/2019)
+<p align="center">
+<img width="1080" height="360" src="https://user-images.githubusercontent.com/85508764/125492414-b749c8c8-f999-4083-adb4-7a4224fbd9b7.png">
+</p>
+
 ### Purpose
 
-In this project, we were tasked with creating an anaylsis based on ride data from three different city types: rural, suburban, and urban. To accomplish this, we converted a csv file and compiled it to a readable, meaningful dataframe that showed metrics relevant to our analysis. These metrics included average fares by city and driver type, amount of trips for a period of time based on city type, and totals of rides and drivers for our three city types. We've compiled the cleaned up data to show data from January to March of 2019. Our goal was to utilize this data to find ways to help alleviate discrepencies between the three city types that we inspected. 
+In this project, we were tasked with creating an anaylsis based on ride data from three different city types: rural, suburban, and urban. To accomplish this, we converted a csv file and compiled it to a readable, meaningful dataframe that showed metrics relevant to our analysis. These metrics included average fares by city and driver type, amount of trips for a period of time based on city type, and totals of rides and drivers for our three city types. We've compiled the cleaned up data to show data from January to April of 2019. Our goal was to utilize this data to find ways to help alleviate discrepencies between the three city types that we inspected. 
 
 # Analysis
+
+<p align="center">
+<img width="577" height="108" src="https://user-images.githubusercontent.com/85508764/125492891-ec17b77b-ebe2-41f5-bcc8-bb347b5023c6.png">
+</p>
 
 ## Results (Urban Cities)
 ### Description
